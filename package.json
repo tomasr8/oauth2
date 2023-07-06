@@ -1,0 +1,21 @@
+{
+  "name": "oauthtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@badgateway/oauth2-client": "^2.0.18",
+    "open": "^9.1.0",
+    "webpack": "^5.88.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
